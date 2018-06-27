@@ -1,6 +1,7 @@
-# Project Title
+# JBotTest
 
-One Paragraph of project description goes here
+This is a test Github project I'm using to figure out how the code and filestructure transfers between visual basic project files on my PC and Github. This readme is a basic template file so I can also check out the markup language (*.md) that Github uses.
+Anything below this line has not been updated for JbotTest.
 
 ## Getting Started
 
