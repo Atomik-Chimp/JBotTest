@@ -6,6 +6,7 @@
 // Author: Gonzales Cenelia
 //
 
+// Here a minor edit that will make this version different.
 
 #include "stdafx.h"
 
@@ -35,6 +36,7 @@ int _tmain(int argc, _TCHAR* argv[])
 		int nSelection = rand() % 5;			// pick a random output string
 		sResponse = Response[nSelection];		// assign the random string to the response string
 		std::cout << sResponse << std::endl;	// print out the response string
+		std::cout << "WAKE UP!" << std::endl;	// Just another edit to make things different for Github
 	}
 	return 0;
 }
