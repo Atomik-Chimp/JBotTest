@@ -39,6 +39,9 @@ int _tmain(int argc, _TCHAR* argv[])
 		std::cout << sResponse << std::endl;	// print out the response string
 		std::cout << "WAKE UP!" << std::endl;	// Just another edit to make things different for Github
 	}
+
+	std::cout << "Another little bit to make things different" << std::endl;
+
 	return 0;
 }
 
