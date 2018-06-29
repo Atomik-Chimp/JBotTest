@@ -7,6 +7,7 @@
 //
 
 // Here a minor edit that will make this version different.
+// Minor edit number 2 to make things different.
 
 #include "stdafx.h"
 
